@@ -1,7 +1,7 @@
 import requests
 import json
 
-key = '여기에 api key 넣어주세요'
+key = 'please api key'
 
 address = input()
 
